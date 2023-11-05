@@ -1,0 +1,280 @@
+<Trader> MISCELLANEOUS
+<Category> MSP Deco
+Msp_Shelf_Kit, 					*, 300, 150
+Msp_Shelf, 						*, -1, -1
+Msp_SleepingBag_Green, 			*, 200, 100
+Msp_SleepingBag_Blue, 			*, 200, 100
+Msp_SleepingBag_LimeGreen, 		*, 200, 100
+Msp_SleepingBag_Orange, 		*, 200, 100
+Msp_SleepingBag_Purple, 		*, 200, 100
+Msp_SleepingBag_Red, 			*, 200, 100
+Msp_Mattress_Blue, 				*, 300, 150
+Msp_Mattress_Green, 			*, 300, 150
+Msp_Mattress_Pink, 				*, 300, 150
+Msp_Mattress_Yellow, 			*, 300, 150
+Msp_DeskClock, 					*, 300, 150
+Msp_WoodenTable_Kit, 			*, 300, 150
+Msp_WoodenTable, 				*, -1, -1
+Msp_WoodenChair, 				*, 120, 60
+Msp_RoomDivider_Kit, 			*, 50, 25
+Msp_RoomDivider, 				*, -1, -1
+Msp_RoomDivider_Flat, 			*, 90, 45
+Msp_HousePlant_Philodendron, 	*, 100, 50
+Msp_HousePlant_FicusTree, 		*, 100, 50
+Msp_HousePlant_RubberFig, 		*, 100, 50
+Msp_HousePlant_Succulent, 		*, 100, 50
+Msp_Trophy_Gold , 				*, 100, 50
+Msp_Trophy_Bronze, 				*, 100, 50 
+Msp_Trophy_Silver, 				*, 100, 50
+
+<Category> MSP Utilies
+Msp_Gazebo_Kit, 		*, 500, 250
+Msp_Gazebo, 			*, -1, -1
+Msp_StoneFireplace_Kit, *, 275, 135
+Msp_StoneFireplace, 	*, -1, -1
+Msp_FireplaceRailing , 	*, 120, 60
+Msp_Stove_Kit, 			*, 240, 120
+Msp_Stove, 				*, -1, -1
+
+<Category> Garden
+Msp_PlanterBox, 			*, 200, 100
+Msp_SquarePlanterBox, 		*, 200, 100
+Msp_EmptySquarePlanterBox, 	*, 200, 100
+Msp_EmptyPlanterBox, 		*, 200, 100
+Msp_EmptyPlanterPot, 		*, 200, 100
+Msp_PlanterPot, 			*, 200, 100
+Msp_Greenhouse_Kit, 		*, 450, 225
+Msp_Greenhouse, 			*, -1, -1
+Msp_Greenhouse_Vanilla_Kit, *, 450, 225
+Msp_Greenhouse_Vanilla, 	*, -1, -1
+Msp_Greenhouse_White_Kit, 	*, 450, 225
+Msp_Greenhouse_White, 		*, -1, -1
+
+<Category> Fridges
+Msp_MoskvaFridge_Blue_Kit,	*, 380, 140
+Msp_MoskvaFridge_Blue, 		*, -1, -1
+Msp_MoskvaFridge_Cream_Kit, *, 380, 140
+Msp_MoskvaFridge_Cream, 	*, -1, -1
+Msp_MoskvaFridge_Red_Kit, 	*, 380, 140
+Msp_MoskvaFridge_Red, 		*, -1, -1
+Msp_SovietOkaFridge_Kit, 	*, 380, 140
+Msp_SovietOkaFridge, 		*, -1, -1
+Msp_SnowballFridge_Kit, 	*, 380, 140
+Msp_SnowballFridge, 		*, -1, -1
+
+
+
+<Category> Storage standalone
+Msp_LargeAmmoBox, 			*, 1000, 500
+Msp_GrenadeBox, 			*, 1000, 500
+Msp_TackleBox,  			*, 1000, 500
+Msp_TackleBox_Black,  		*, 1000, 500
+Msp_CoolerBox,  			*, 1000, 500
+Msp_CoolerBox_Black,  		*, 1000, 500
+Msp_Basket_Rectangular,  	*, 1000, 500
+Msp_Basket_Wicker, 			*, 1000, 500
+Msp_MedievalChest,  		*, 1000, 500
+Msp_TreasureChest, 			*, 1000, 500
+Msp_AmericanAppleCrate,  	*, 1000, 500
+Msp_AppleCrate,  			*, 1000, 500
+Msp_PlasticCrate,  			*, 1000, 500
+Msp_AmmoCrate,  			*, 1000, 500
+Msp_MilitaryCrate_Brown, 	*, 1000, 500
+Msp_MilitaryCrate_Green, 	*, 1000, 500
+Msp_MilitaryCrate_Grey, 	*, 1000, 500
+Msp_MilitaryCrate_Olive, 	*, 1000, 500
+Msp_MilitaryCrate_Tan, 		*, 1000, 500
+Msp_MedCase, 				*, 1000, 500
+Msp_ParamedicBag_Red, 		*, 1000, 500
+Msp_ParamedicBag_Green, 	*, 1000, 500
+Msp_ParamedicBag_Blue, 		*, 1000, 500
+Msp_ParamedicBag_NBC, 		*, 1000, 500
+Msp_PolarBear, 				*, 1000, 500
+
+<Category> Kit storage
+Msp_StorageBox_Kit, 						*, 1000, 450
+Msp_StorageBox, 							*, -1, -1
+Msp_MilitaryLocker_Kit, 					*, 1000, 450
+Msp_MilitaryLocke,r 						*, -1, -1
+Msp_Locker_Kit, 							*, 1000, 450
+Msp_Locker, 								*, -1, -1
+Msp_SoloLocker_Kit, 						*, 1000, 450
+Msp_SoloLocker, 							*, -1, -1
+Msp_SoloLocker_Black_Kit, 					*, 1000, 450
+Msp_SoloLocker_Black, 						*, -1, -1
+Msp_SoloLocker_White_Kit, 					*, 1000, 450
+Msp_SoloLocker_White, 						*, -1, -1
+Msp_SoloLocker_Green_Kit, 					*, 1000, 450
+Msp_SoloLocker_Green, 						*, -1, -1
+Msp_SoloLocker_Red_Kit, 					*, 1000, 450
+Msp_SoloLocker_Red, 						*, -1, -1
+Msp_SoloLocker_RedRusty_Kit, 				*, 1000, 450
+Msp_SoloLocker_RedRusty, 					*, -1, -1
+Msp_SoloLocker_Yellow_Kit, 					*, 1000, 450
+Msp_SoloLocker_Yellow, 						*, -1, -1
+Msp_SoloLocker_YellowRusty_Kit, 			*, 1000, 450
+Msp_SoloLocker_YellowRusty, 				*, -1, -1
+Msp_OldLocker_Kit, 							*, 1000, 450
+Msp_OldLocker, 								*, -1, -1
+Msp_OldLocker_Green_Kit, 					*, 1000, 450
+Msp_OldLocker_Green, 						*, -1, -1
+Msp_FourDoor_MilitaryLocker_Kit, 			*, 1000, 450
+Msp_FourDoor_MilitaryLocker, 				*, -1, -1
+Msp_FourDoor_MilitaryLocker_Green_Kit, 		*, 1000, 450
+Msp_FourDoor_MilitaryLocker_Green, 			*, -1, -1
+Msp_RifleSafe_Kit, 							*, 1000, 450
+Msp_RifleSafe, 								*, -1, -1
+Msp_RifleSafe_Grey_Kit, 					*, 1000, 450
+Msp_RifleSafe_Grey, 						*, -1, -1
+Msp_RifleSafe_Green_Kit, 					*, 1000, 450
+Msp_RifleSafe_Green, 						*, -1, -1
+Msp_RifleSafe_Purple_Kit, 					*, 1000, 450
+Msp_RifleSafe_Purple, 						*, -1, -1
+Msp_RifleSafe_Tan_Kit, 						*, 1000, 450
+Msp_RifleSafe_Tan, 							*, -1, -1
+Msp_Safe,  									*, 1000, 450
+Msp_ToolsBench_Blue_Kit, 					*, 1000, 450
+Msp_ToolsBench_Blue, 						*, -1, -1
+Msp_ToolsBench_Grey_Kit, 					*, 1000, 450
+Msp_ToolsBench_Grey, 						*, -1, -1
+Msp_ToolsBench_Red_Kit, 					*, 1000, 450
+Msp_ToolsBench_Red, 						*, -1, -1
+Msp_Bookcase_Kit, 							*, 1000, 450
+Msp_Bookcase, 								*, -1, -1
+Msp_Mailbox,  								*, 1000, 450
+Msp_TrashCan,  								*, 1000, 450
+Msp_Static_TrashCan,  						*, 1000, 450
+Msp_MedicalBox_Kit, 						*, 1000, 450
+Msp_MedicalBox, 							*, -1, -1
+Msp_Wardrobe_Brown_Kit, 					*, 1000, 450
+Msp_Wardrobe_Brown,  						*, -1, -1
+Msp_Wardrobe_Green_Kit, 					*, 1000, 450
+Msp_Wardrobe_Green,  						*, -1, -1
+Msp_Wardrobe_White_Kit, 					*, 1000, 450
+Msp_Wardrobe_White,  						*, -1, -1
+Msp_GunCabinet_Kit, 						*, 1000, 450
+Msp_GunCabinet, 							*, -1, -1
+Msp_GunRack_Kit, 							*, 1000, 450
+Msp_GunRack, 								*, -1, -1
+Msp_DoubleGunRack_Kit, 						*, 1000, 450
+Msp_DoubleGunRack, 							*, -1, -1
+Msp_FishingRodsRack_Kit, 					*, 1000, 450
+Msp_FishingRodsRack,	 					*, -1, -1
+Msp_WoodenGunRack_Kit, 						*, 1000, 450
+Msp_WoodenGunRack, 							*, -1, -1
+Msp_Gunwall_Kit, 							*, 1000, 450
+Msp_Gunwall, 								*, -1, -1
+
+<Category> Tents
+WG_AdventurerTent_Kit, 						*, 300, 150
+WG_AdventurerTent, 							*, -1, -1
+WG_CampingTent_Blue_Kit, 					*, Tents, 150
+WG_CampingTent_Blue, 						*, -1, -1
+WG_CampingTent_Gray_Kit, 					*, Tents, 150
+WG_CampingTent_Gray, 						*, -1, -1
+
+
+<Category> Waterbarrels
+Msp_WaterBarrel_Stand, 						*, 150, 40
+Msp_WaterBarrel_Stand_Darkwood, 			*, 150, 40
+Msp_WaterBarrel, 							*, 150, 40
+Msp_WaterBarrel_Plastic, 					*, 150, 40
+Msp_WaterBarrel_Plastic_Yellow, 			*, 150, 40
+Msp_WaterBarrel_Plastic_Green, 				*, 150, 40
+Msp_WaterBarrel_Plastic_Red, 				*, 150, 40
+Msp_WaterBarrel_Plastic_Black, 				*, 150, 40
+Msp_WaterBarrel_Plastic_White, 				*, 150, 40
+Msp_WaterBarrel_Darkwood, 					*, 150, 40
+Msp_WaterBarrel_Valve, 						*, 150, 40
+Msp_WaterBarrel_Valve_Darkwood, 			*, 150, 40
+Msp_WaterBarrel_Valve_Faucet, 				*, 150, 40
+
+<Category> Donation Barrels
+Msp_Static_Barrel_Donation, 				*, 150, 40
+Msp_Static_Barrel_Donation_Ammo, 			*, 150, 40
+Msp_Static_Barrel_Donation_Guns, 			*, 150, 40
+Msp_Static_Barrel_Donation_Food, 			*, 150, 40
+Msp_Static_Barrel_Donation_Medical, 		*, 150, 40
+Msp_Static_Barrel_Donation_BloodONegative, 	*, 150, 40
+Msp_Barrel_Donation, 						*, 150, 40
+Msp_Barrel_Donation_Ammo, 					*, 150, 40
+Msp_Barrel_Donation_Guns, 					*, 150, 40
+Msp_Barrel_Donation_Food, 					*, 150, 40
+Msp_Barrel_Donation_Medical, 				*, 150, 40
+Msp_Barrel_Donation_BloodONegative, 		*, 150, 40
+
+<Category> Map items
+Msp_StandingSign_Metal, 		*, 50, 15 
+Msp_RoadSign, 					*, 50, 25
+Msp_RoadSign_FleaMarket, 		*, 50, 10
+Msp_BoxingRing, 				*, 3000, 1000
+Msp_BoxingRing_Top, 			*, 3000, 1000
+
+<Category> MSP Clothes
+        Msp_BoxingShorts_Red, 			*, 700, 50
+        Msp_BoxingShorts_Blue, 			*, 700, 50
+        Msp_BoxingGloves_Black, 		*, 700, 50
+        Msp_BoxingGloves_Red, 			*, 700, 50
+        Msp_BoxingGloves_Blue, 			*, 700, 50
+        Msp_BoxingGloves_Gold,			*, 700, 50
+        Msp_M_BoxingGloves_Black,		*, 700, 50
+        Msp_M_BoxingGloves_Red,			*, 700, 50
+        Msp_M_BoxingGloves_Blue, 		*, 700, 50
+        Msp_M_BoxingGloves_Gold, 		*, 700, 50
+        Msp_BoxingHelmet_Red,			*, 700, 50
+        Msp_BoxingHelmet_Blue, 			*, 700, 50
+        Msp_BunnyEarsHeadband, 			*, 700, 50
+        Msp_MedicBag, 					*, 700, 50
+        Msp_MedicBag_Red , 				*, 700, 50
+        Msp_MedicBag_Green , 			*, 700, 50
+        Msp_MedicBag_Blue , 			*, 700, 50
+        Msp_MedicBag_Black , 			*, 700, 50
+        Msp_Slouchie_Beige, 			*, 700, 50
+        Msp_Slouchie_Black, 			*, 700, 50
+        Msp_Slouchie_Blue, 				*, 700, 50
+        Msp_Slouchie_Red, 				*, 700, 50
+        Msp_DuffleBag_Green, 			*, 700, 50
+        Msp_DuffleBag_Black, 			*, 700, 50
+        Msp_DuffleBag_Blue, 			*, 700, 50
+        Msp_DuffleBag_Red, 				*, 700, 50
+        Msp_WaistPack_Tan, 				*, 700, 50
+        Msp_WaistPack_Black, 			*, 700, 50
+        Msp_WaistPack_Green, 			*, 700, 50
+        Msp_WaistPack_Brown, 			*, 700, 50
+        Msp_WaistPack_UrbanFlektarn,	*, 700, 50
+        Msp_WaistPack_Blue, 			*, 700, 50
+        Msp_BaseballCap_Beige, 			*, 700, 50
+        Msp_BaseballCap_Black, 			*, 700, 50
+        Msp_BaseballCap_Blue, 			*, 700, 50
+        Msp_BaseballCap_Camo, 			*, 700, 50
+        Msp_BaseballCap_Olive, 			*, 700, 50
+        Msp_BaseballCap_Pink, 			*, 700, 50
+        Msp_BaseballCap_Red, 			*, 700, 50
+        Msp_BaseballCap_CMMG_Pink, 		*, 700, 50
+        Msp_BaseballCap_CMMG_Black, 	*, 700, 50
+        Msp_SportsBag_Black, 			*, 700, 50
+        Msp_SportsBag_Blue, 			*, 700, 50
+        Msp_SportsBag_Gray,				*, 700, 50
+        Msp_SportsBag_Green, 			*, 700, 50
+        Msp_SportsBag_Red, 				*, 700, 50
+        Msp_SlingBackpack_Black, 		*, 700, 50
+        Msp_SlingBackpack_Green, 		*, 700, 50
+        Msp_SlingBackpack_Gray, 		*, 700, 50
+        Msp_SlingBackpack_Tan, 			*, 700, 50
+
+  <Category> MSP Melee
+        Msp_BeanBasher,					W,	15, 10
+        Msp_PipeAxe,					W,	15, 10
+        Msp_PlainBat,					W,	45, 10
+        Msp_PlainBat_Blue,				W, 	45, 10
+        Msp_PlainBat_Black,				W,	45, 10
+        Msp_GoodNightBat,				W, 	45, 10
+        Msp_VorpalKnife,				W, 	45, 10
+        Msp_BlunderBat,					W, 	45, 10
+        Msp_BaseballBat,				W, 	45, 10
+        Msp_BaseballBat_SawBarbedWire,	W, 	45, 10
+        Msp_BaseballBat_Chain,			W, 	45, 10
+        Msp_BaseballBat_Nailed,			W, 	45, 10
+        Msp_BaseballBat_BarbedWire,		W, 	45, 10
+        Msp_Sawblade, 					W, 	45, 10
+
