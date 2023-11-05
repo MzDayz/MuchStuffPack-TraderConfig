@@ -168,9 +168,9 @@ Msp_Gunwall, 								*, -1, -1
 <Category> Tents
 WG_AdventurerTent_Kit, 						*, 300, 150
 WG_AdventurerTent, 							*, -1, -1
-WG_CampingTent_Blue_Kit, 					*, Tents, 150
+WG_CampingTent_Blue_Kit, 					*, 300, 150
 WG_CampingTent_Blue, 						*, -1, -1
-WG_CampingTent_Gray_Kit, 					*, Tents, 150
+WG_CampingTent_Gray_Kit, 					*, 300, 150
 WG_CampingTent_Gray, 						*, -1, -1
 
 
